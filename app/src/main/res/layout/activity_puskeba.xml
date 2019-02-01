@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:background="@drawable/puskeba"
+        android:layout_height="match_parent"
+        tools:context=".puskebaActivity"
+android:orientation="vertical">
+
+
+
+    <ScrollView
+            android:layout_width="368dp"
+            android:layout_height="551dp"
+            tools:layout_editor_absoluteY="8dp"
+            tools:layout_editor_absoluteX="8dp">
+        <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="20dp"
+                    android:text="Puskeba ‘Pusat Kebudayaan Baru’ merupakan bagian penting dalam kehidupan manusia. Kebudayaan terlahir dari serangkaian relasi sosial manusia dengan basis sosialnya. Hal inilah yang menjadikan kebudayaan sebagai alat untuk menjaga basis sosial ekonomi suatu masyarakat agar tetap eksis. Sejarah bangsa Indonesia telah mencatat betapa pentingnya peran budaya dalam perjuangan kemerdekaan.
+Pada masa kolonialisme Belanda, kebudayaan yang dibentuk adalah kebudayaan terbelakang beserta mitos-mitosnya. Hadirnya kolonialisme Belanda di Indonesia, sama sekali tidak menunjukan adanya peningkatan kebudayaan rakyat Indonesia. Justru rakyat Indonesia tetap dijaga dengan terus melanggengkan kebudayaan lama, yaitu kebudayaan feodal. Hal ini yang menyebabkan rakyat Indonesia saat itu terus diselimuti kesadaran terbelakang, yang menganggap seluruh kehidupan sudah digariskan. Demikian atas penguasaan kolonialisme dan ketimpangan kesejahteraan antara manusia dianggap sebagai takdir atau kewajaran semata. Ini menjadi sebuah hegemoni yang terus eksis dan berciri feodal. Oleh karena itu, mayoritas rakyat menjadi terbelenggu oleh kebudayaan yang diciptakan oleh kolonialisme dan feodalisme di waktu itu. Kebudayaan yang terbelakang menjadi suprastruktur yang digunakan kolonial belanda untuk memperkuat kekuasaannya terhadap rakyat nusantara.
+Kebudayaan yang terbelakang akan senantiasa dirawat oleh penguasa untuk melanggengkan kedudukannya sebagai klas penindas. Namun dalam hukum perkembangan masyarakat yang meletakkan keadaan sosial akan menentukan kesadaraan sosial, maka kebudayaan maju akan lahir atas kesadaraan dari kondisi objektif rakyat. Penjajahan oleh kolonialisme Belanda dan dominasi dari feodalisme di pedesaan pada waktu pra kemerdekaan, melahirkan berbagai pemikiran dan peningkatan kesadaran bahwa penjajahan adalah suatu sistem yang buruk dan bukan sebuah takdir. Hal ini lahir dari perjuangan rakyat yang sekian lama melawan corak produksi penghisapan yang dipertahankan kolonialisme dan feodalisme.
+Lahirnya kebudayaan progresif tentunya berawal dari kesadaran sosial yang lahir dari ketertindasan dan keterhisapan rakyat Indonesia dalam perkembangan masyarakat yang eksis dalam setiap periode sejarah. Kebudayaan progresif berkembang kemudian melahirkan berbagai karya-karya seni dan sastra sesuai dengan kebutuhan rakyat yang menghimpun seluruh aspirasi rakyat. Sehingga, seni dan sastra sejatinya merupakan bagian atau alat untuk menyuarakan dan membebaskan rakyat dari belenggu penghisapan dan penindasan.
+
+PENGANTAR KEBUDAYAAN
+Apa Itu Kebudayaan
+Kebudayaan adalah salah satu bagian yang dilahirkan oleh system ekonomi politik yang sedang eksis dan berkuasa yang atinya bahwa kebudayaan yang berkembang saat ini di Negara SJSF sudah bisa di pastikan adalah system kebudayaan yang memiliki orientasi untuk mempertahankan dan terus menyelamatkan system ekonomi politik yang telah sekarat dan parasit. Tidak jauh berbeda dari system ekonomi feudal yang dipertahankan sebagai basis ekonomi penghisapan feudal di lapangan kebudayaan pun sama di mana kebudayaan Feudal yang sangat terbelakang terus dikembangkan untuk tetap mempertahankan kekuasaan system Ekonomi Politik Kapitalisme monopoli yang telah sekarat dan parasitis.
+Kebudayaan esensinya adalah hubungan seseorang dengan alat produksinya atau dengan manusia lainya yang kemudian melahirkan kebudayaan tersebut. Dimana kebudayaan merupakan bagian dari suprastruktur yang dibangun oleh system ekonomi politik sebagai bangunan basisnya.
+Kebudayaan adalah ekspresi yang lahir dari setiap idividu baik dalam upaya memajukan hubunganya dengan alat produksinya atau hubungan dengan manusia lainya sehingga Kebudayaan memiliki cakupan yang sangat luas yaitu meliputi Pendidikan, adat istiadat, kemajuan Tekhnologi, Seni dan Sastra, Olahraga, agama dan kepercayaan dan lain sebagainya.
+Gambaran tersebut merupakan garis yang menunjukkan bahwa Kebudyaan selajutnya tidak bisa dipersempit hanya pada aspek seni dan sastra saja, dan jikalau seni dan sastra maka ia harus tetap terhubung dengan aspek kebudayaan lainya karena ia memiliki kesaling hubungan yang ikat mengikat lekat dan sama sekali tidak bisa dipisah-pisahkan.
+Macam-macam Kebudayaan
+Kebudayaan ditinjau dari orientasinya terdiri atas dua jenis Kebudayaan yang pastinya saling bertentangan yaitu : Kebudayaan Borjuasi dan Kebudayaan Rakyat. Kebudayaan Borjuasi adalah kebudayaan yang lahir dan berkembang untuk tetap mempertahankan Sistem ekonomi Politik SJSF, kebudayaan borjuasi yang berkembang saat ini dapat dibedakan menjadi dua hal yaitu :
+1.	Kebudayaan Liberal adalah kebudayaan yang dipromosikan oleh imperialism yang diorientasikan untuk membangun ilusi tentang kehidupan yang liberal dan serba instan sedangkan di satu sisi semua lembaga kebudayaan pun dikomersialisasikan sebagai salah satu sector jassa
+2.	Kebudayaan Feudal adalah kebudayaan yang juga digunakan oleh imperialism dalam mendukung monopoli atas tanah sebagai basis utama dari penghisapan capital yaitu kebudayaan yang anti kemajuan dimana rakyat terus dicekoki dengan mistisme, tahayul dan bergantung pada nasib semata dimana semua lembaga kebudayaan terkonsolidasi sebagai alat kebudayaan yang berperan ganda disatu sisi harus mempropagandakan kebudayaan liberal dan disi lain harus tetap mempertahankan kebudayaan feudal yang terbelakang
+Sedangkan Kebudayaan rakyat adalah kebudayaan progressif yang meiliki orientasi untuk memajukan tenaga produktif untuk melawan dan menghancurkan 3 musuh rakyat. Kebudayaan progressif adalah kebudayaan yang berorientasi pada pembangunan kesadaran rakyat untuk berorganisasi dan berjuang sebagai syarat untuk memerdekakan dirinya dari penindasan dan penghisapan system SJSF.
+
+
+"/>
+
+    </ScrollView>
+</LinearLayout>

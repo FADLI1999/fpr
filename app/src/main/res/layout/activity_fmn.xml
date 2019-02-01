@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fmn"
+        android:orientation="vertical"
+        tools:context=".fmnActivity">
+    <ScrollView
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <TextView
+                android:layout_width="wrap_content"
+                android:textColor="@color/coloryellow"
+                android:textSize="20dp"
+                android:layout_marginTop="20dp"
+                android:text="Ke-FMN-an (Sejarah Front Mahasiswa Nasional)
+
+Kelahiran Front Mahasiswa Nasional (FMN) tidak terlepas dari penindasan dan penghisapan yang dilakukan rejim fasis boneka imperialis Soeharto terhadap rakyat dan juga pemuda/mahasiswa di Indonesia. Setelah dikeluarkan kebijakan Normalisasi Kebijakan Kampus/Badan Koordinasi Kampus (NKK/BKK) sebagai buntut dari protes besar-besaran mahasiswa dalam peristiwa Malari 1974 dan penolakan terhadap pencalonan kembali Soeharto pada tahun 1978 yang melahirkan tragedi berdarah di ITB, gerakan pemuda dan mahasiswa dipaksa tiarap selama hampir sepuluh tahun (akhir 70an-akhir 80an) dari aktifitas politik di kampus dan pentas politik nasional.
+Meskipun dipaksa tiarap, oleh tangan besi rejim Soeharto tetap tidak bisa membungkam semangat perlawanan rakyat dan pemuda-mahasiswa. Dari konsolidasi kecil-kecilan ini, gerakan pemuda-mahasiswa mulai kembali ke ranah kampus dengan mendirikan forum-forum komunikasi mahasiswa, seperti Forum Komunikasi Mahasiswa Yogyakarta (FKMY), Forum Komunikasi Mahasiswa Bandung dan Forum Komunikasi Mahasiswa Surabaya (FKMS). Kentalnya perbedaan cara pandang dalam menganalisa situasi konkret masyarakat Indonesia, monopoli kepemimpinan organisasi oleh individu atau segelintir orang ditambah dengan lemahnya upaya mensolidkan organisasi, akhirnya memaksa forum-forum komunikasi mahasiswa tersebut membubarkan diri.
+
+Pasca bubarnya konsolidasi forum-forum komunikasi mahasiswa, konsolidasi lebih lanjut dilakukan dengan dibentuknya Forum Aksi Mahasiswa Indonesia (FAMI) dan Solidaritas Mahasiswa Indonesia untuk Demokrasi (SMID) dalam kurun waktu 1991-1994. Lahirnya FAMI dan SMID tidak terlepas dari historis dialektika FMN, karena awalnya memang satu barisan, yang mendasari tidak bertemunya para pioner FMN dengan FAMI dan SMID adalah masalah “analisis terhadap situasi obyektif” negara maupun rakyat yang berpengaruh terhadap metode perjuangan (tampak di kemudian hari adalah FAMI berubah menjadi FPPI yang mayoritas didalamnya adalah aktivis 80an yang banyak terlibat di LSM dan SMID yang kemudian berubah menjadi PRD yang merambah pada jalan parlementariat). Disisi lain memang harus kita akui bahwa belum ada teori maju dan benar dalam pemahaman kita saat itu, tentang bagaimana organisasi yang akan kita bangun.(pra tahun 1995).
+
+Awal pembentukan jaringan FMN adalah pada tahun 1995 dan berlanjut pada tahun 1996 saat diadakannya “Podium Demokrasi” di Batu dan pada tahun 1997 di Ponorogo. Isu yang membuat mahasiswa bersatu waktu itu adalah sikap anti Jakarta, terutama pasca Tragedi 27 Juli 1996(move-nya PRD) yang membuat semuanya saling menuduh dan melepas tanggungjawab. Kawan2 Jakarta menganggap daerah tidak cukup berani untuk lebih frontal dalam melakukan aksi, kawan2 selain Jakarta pun menganggap bahwa tindakan kawan2 Jakarta akan menganggu proses konsolidasi nasional dengan adanya move2 politik. Hal inilah yang membuat penangkapan dan penculikan besar2an terhadap aktivis2 mahasiswa, termasuk juga beberapa pioner dari FMN. Ini adalah awal mula keinginan untuk membangun sebuah organisasi nasional secara lebih serius.
+"
+android:layout_height="150dp"
+        />
+    </ScrollView>
+
+
+    </LinearLayout>

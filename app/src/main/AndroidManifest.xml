@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.bibdev.FRONT_PERJUANGAN_RAKYAT">
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/icont"
+            android:label="Front Perjuangan Rakyat"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".fprActivity">
+        </activity>
+        <activity android:name=".fmnActivity">
+        </activity>
+        <activity android:name=".seruniActivity">
+        </activity>
+        <activity android:name=".row_data">
+        </activity>
+        <activity android:name=".grid_itemActivity">
+        </activity>
+        <activity android:name=".pembaruActivity">
+        </activity>
+        <activity android:name=".puskebaActivity">
+        </activity>
+        <activity android:name=".agraActivity">
+        </activity>
+    </application>
+
+</manifest>

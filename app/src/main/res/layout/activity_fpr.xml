@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:background="@drawable/fadli"
+tools:context=".fprActivity">
+<ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:layout_marginTop="15dp"
+            android:text="F R O N T   P E R J U A N G A N   R A K Y A T
+Front Perjuangan Rakyat (FPR) adalah aliansi organisasi-organisasi masyarakat sipil Indonesia yang pada awalnya dibentuk untuk merespon perayaan Hari Buruh se-Dunia 2008. FPR menyandarkan diri pada prinsip aliansi dasar klas buruh dan kaum tani sebagai komponen pokok perubahan sosial. Selain melakukan aksi-aksi, FPR juga menggelar diskusi-diskusi yang mengulas berbagai persoalan sosial di masyarakat. Dalam politiknya, FPR berpegang pada prinsip kebebasan dalam inisiatif dan kemandirian dalam politik.
+Dan berikut ini adalah organisasi pendiri dan organisasi yang tergabung dalam Front Perjuangan Rakyat (FPR) pada perjalanan berikutnya :
+1. Gabungan Serikat Buruh Independen (GSBI)
+2. Aliansi Gerakan Reforma Agraria (AGRA)
+3. Asosiasi Tenaga Kerja Indonesia di Hongkong (ATKI-HK)
+4. Organisasi Pekerja Seluruh Indonesia (OPSI)
+5. Serikat Buruh Aspirasi Pekerja Indonesia (SB-API)
+6. Serikat Buruh Koas Eterna Jaya Industries (SBK-EJI)
+7. Front Mahasiswa Nasional (FMN)
+8. Gerakan Mahasiswa Keristen Indonesia (GMKI)
+9. Himpunan Mahasiswa Budhis Indonesia (HIKMAHBUDHI)
+10. Gerakan Mahasiswa Nasional Kerakyatan (GMNK)
+11. Perhimpunan Mahasiswa Katolik Republik Indonesia (PMKRI)
+12. Central Gerakan Mahasiswa Universitas Bung Karno (CGM-UBK)
+13. Sarekat Hijau Indonesia (SHI)
+14. Liga Pemuda Bekasi (LPB)
+15. Komite Pemuda Cengkareng (KPC)
+16. Arus Pelangi (AP)
+17. Gerakan Angkatan Muda Kristen Indonesia (GAMKI)
+18. Himpunan Mahasiswa Islam (HMI)
+19. Gerakan Mahasiswa Nasional Indonesia (GMNI)
+20. Pergerakan mahasiswa Islam Indonesia (PMII)
+21. Forum Pemuda Kota Bekasi (FORDASI)
+22. Gerakan Rakyat Indonesia (GRI)
+23. Serikat Pekerja Hukum Progresif (SPHP)
+24. Serikat Becak Jakarta (SEBAJA)
+25. Jaringan Rakyat Miskin Kota (JRMK)
+26. International NGO Forum of Indonesia Development (INFID)
+27. Institute for National and Democratic Studies (INDIES)
+28. LP3ES
+29. MIGRANTCARE
+30. Urban Poor Consortium (UPC)
+31. UPLINK
+32. PBHI Nasional
+33. Cianjur Peduli Migrant (CPM)
+34. Jaringan Advokasi Tambang (JATAM)
+
+"
+            android:layout_height="wrap_content"
+    />
+</ScrollView>
+
+
+</LinearLayout>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".pembaruActivity">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20dp"
+            android:background="@drawable/pembaru"
+            android:text="Kaum pemuda di seluruh dunia selalu memainkan peran penting dalam gerakan progresif yang berjuang untuk perubahan masyarakat. OLeh karena itu kongres pembentukan Pemuda Baru Indonesia merupakan perkembangan yang disambut baik dalam perjuangan pemuda Indonesia dan juga perjuangan rakyat Indonesia untuk pembebasan nasional dan demokrasi melawan imperialisme dan kaum reaksi lokal.
+
+Mayoritas rakyat Indonesia terdiri dari pemuda. Dipersenjatai dengan ide-ide progresif dan organisasi yang kuat, kaum pemuda dapat menjadi sebuah kekuatan perkasa bagi kemajuan dan perubahan sosial.
+
+Seperti di banyak negeri di dunia yang dikuasai kaum kapitalis monopoli, di negeri-negeri industri dan konco-konco reaksioner lokalnya di negeri-negeri setengah jajahan setengah feudal seperti Indonesia, kaum pemuda serta massa luas rakyat pekerja, tani dan borjuis kecil dihisap dan ditindas.
+
+Di Indonesia, sejumlah besar pemuda, khususnya mereka yang berasal dari keluarga buruh dan tani tidak mempunyai akses untuk pendidikan lebih tinggi. Banyak di antara mereka terpaksa bekerja pada usia dini guna membantu keluarganya untuk kelangsungan hidupnya.
+
+Mayoritas tenaga kerja juga pemuda. Melimpahnya pemuda yang berbaris antri mencari pekerjaan telah menekan upah. Diperkirakan 58 persen atau 72 juta orang bekerja di bidang ekonomi informal. Bahkan mereka yang bekerja di ekonomi formal pun tidak terjamin status kerja tetapnya dan tidak punya jaminan sosial.
+
+Maka, kongres pembentukan Pemuda Baru Indonesia tepat waktunya. Ia merupakan hasil gemilang perjuangan bertahun-tahun kaum pemuda di Indonesia dan sekarang tiba waktunya untuk lebih lanjut mengkonsolidasi organisasi guna mempersiapkan diri bagi perjuangan yang akan datang.
+
+Tema kongres kalian telah dengan tepat meletakkan garis untuk maju ke depan. Kalian berjuang untuk hak-hak nasional demokratis, untuk kepentingan kaum pemuda dan juga seluruh rakyat. Memang betul, kaum pemuda harus memperjuangkan hak-hak dan kepentingan sektornya sendiri dan juga berjuang bersama kaum buruh, kaum tani dan borjuis kecil demi hak-hak dan kepentingan nasional dan demokratis seluruh rakyat.
+
+Kami, di ILPS, mengharapkan sukses dalam kongres dan kemenangan lebih banyak lagi dalam perjuangan yang akan datang. ILPS selalu siap memberi dukungan dan solidaritas kepada kawan-kawan dan perjuangan rakyat Indonesia lainnya.
+
+Hidup PEMBARU dan seluruh Pemuda Indonesia!
+Ganyang Imperialisme dan kaum reaksi lokal!
+HIdup rakyat Indonesia!
+HIdup solidaritas internasional!"
+            android:layout_height="match_parent"/>
+</LinearLayout>
